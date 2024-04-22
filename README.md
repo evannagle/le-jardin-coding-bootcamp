@@ -18,19 +18,19 @@ We envision a series of courses designed to introduce students to computer scien
 
 Possible course ideas include, in order of complexity:
 
-## Class Idea 1: Program Robots in Minecraft
+### 🤖 Class Idea 1: Program Robots in Minecraft
 
 Students will utilize a visual block-coding environment within Minecraft to experiment with basic programming concepts (loops, conditionals, variables). Projects will focus on automating in-game tasks and creating custom behaviors for Minecraft entities.
 
-### Class Idea 2: Game Programming in Scratch
+### 🤖 Class Idea 2: Game Programming in Scratch
 
 Explore game development fundamentals using a beginner-friendly tool like [Scratch](https://scratch.mit.edu/studios/315425) or a simplified game engine. Students will learn about game design, logic, asset creation, and user interaction while building their own playable games.
 
-### Class Idea 3: **Use Python for Generative Art**
+### 🤖 Class Idea 3: **Use Python for Generative Art**
 
 Introduction to the Python programming language through the lens of visual art. Students will learn to code algorithms that produce patterns, fractals, and creative visuals, exploring the intersection of programming and artistic expression. This is a more advanced course as students will use the Python or JS version of the [Processing library](https://py.processing.org/).
 
-### Class Idea 4: **Python for Arduino**
+### 🤖 Class Idea 4: **Python for Arduino**
 
 Students will learn to control Arduino-compatible microcontrollers using CircuitPython. They'll explore how to interface with various electronic components such as sensors, motors, LEDs, and more. Projects will focus on building interactive systems and simple robots, emphasizing the seamless integration of hardware and software control.
 
@@ -40,11 +40,11 @@ Students will learn to control Arduino-compatible microcontrollers using Circuit
 - **Rapid Prototyping:** CircuitPython allows for quick iterations and testing, making it great for classroom settings.
 - **Skill Transfer:** Knowledge gained about electronics and programming easily applies to other platforms as well.
 
-### Class Idea 5: Python and AI
+### 🤖 Class Idea 5: Python and AI
 
 Introduction to concepts in artificial intelligence using Python. Students will apply Python's data-handling and machine learning libraries to solve problems and build AI-powered projects. Examples might include:
 
-### Class Idea 6: RobotPy
+### 🤖 Class Idea 6: RobotPy
 
 Students gain a specific understanding of the RobotPy framework and how to use Python to control robots in FIRST Robotics competitions. Cover installation, key libraries, and robot structure.
 
